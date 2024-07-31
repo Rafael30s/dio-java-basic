@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "terminal_c681650"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcessao",
+            "request": "launch",
+            "mainClass": "ExemploExcessao",
+            "projectName": "terminal_c681650"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
