@@ -19,11 +19,11 @@ public class Cozinheiro {
         adicionarSucoNoBalcao();
     }
 
-    public void prepararLanche() {
+    private void prepararLanche() {
         System.out.println("PREPARANDO LANCHE TIPO HAMBÚRGUER");
     }
 
-    public void prepararVitamina() {
+    private void prepararVitamina() {
         System.out.println("PREPARANDO SUCO");
     }
 
@@ -36,15 +36,15 @@ public class Cozinheiro {
         System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
     }
 
-    public void selecionarIngredientesVitamina() {
+    private void selecionarIngredientesVitamina() {
         System.out.println("SELECIONADO FRUTA, LEITE E SUCO");
     }
 
-    public void lavarIngredientes() {
+    private void lavarIngredientes() {
         System.out.println("LAVANDO INGREDIENTES");
     }
 
-    public void baterVitaminaLiquidificador() {
+    private void baterVitaminaLiquidificador() {
         System.out.println("BATENDO VITAMINA NO LIQUIDIFICADOR");
     }
 
