@@ -1,4 +1,4 @@
-package list;
+package list.listaTarefas;
 
 public class Tarefa {
 
